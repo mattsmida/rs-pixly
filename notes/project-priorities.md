@@ -1,13 +1,13 @@
-TS
-Express (vs Flask)
-React
-Attractiveness
-
-What are our goals for this?
+# What are our goals for this project?
 Pleasing looks, presentable, portfoilio-ready, curb-appeal
 
+### Choose one...
+- TS
+- Express (vs Flask)
+- React
+- "Attractiveness"
 
-Pix.ly: Image lighttable / editor»
+### The task: Pix.ly: Image lighttable / editor
 
 (Login/authentication isn’t required; any web user can do everything)
 
@@ -35,7 +35,7 @@ Spread the stack out instead of a simple grid?
 
 # cool things / nice to haves  (probably choose ONE)
 
-## Image Data
+~~ ## Image Data ~~
 System will retrieve metadata from the photo (location of photo, model of camera, etc) and store it into the database (you’ll need to learn how to read the metadata from photos)
 
 Users can search image data from the EXIF fields (you can learn about PostgreSQL full-text search)
@@ -52,8 +52,6 @@ Users can perform simple image edits (for example):
 
 
 
-# 2027 goals
-- remove the white part from the eye - s killer mode
 
 
 # Presentation Outline
