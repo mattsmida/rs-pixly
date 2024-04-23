@@ -12,3 +12,7 @@ Saltly is available for a test-drive at [saltly.m4t7.com](https://saltly.m4t7.co
 * **PostgreSQL and Amazon S3**: Combines the power of a PostgreSQL database for managing application data with Amazon S3 for scalable and secure photo storage, ensuring a smooth user experience.
 
 This project offered an opportunity to learn about file uploads, integrating with Amazon S3 for storage, and implementing basic image editing features using python's PIL library.
+
+---
+
+*AIL3*
