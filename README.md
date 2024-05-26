@@ -2,8 +2,6 @@
 
 Saltly is a web application built using Python, Flask, SQLAlchemy, and Amazon S3. It allows users to view, upload, and edit photos. This project provided an opportunity to build an application from scratch with a quick turnaround time.
 
-Saltly is available for a test-drive at [saltly.m4t7.com](https://saltly.m4t7.com).
-
 ## Key features of this project
 
 * **User accessibility**: No login or authentication is required for any user to access the platform's features.
